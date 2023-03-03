@@ -1,0 +1,165 @@
+/* -------------------------------------1024-px--------------------------------------------------------------- */
+
+@media (max-width:1024px){
+    .main-head {
+        padding-top: 140px;
+        padding-bottom: 38px;
+        font-size: 75px;
+    }
+    .p-main {
+        padding-bottom: 250px;
+        padding-left: 80px;
+        padding-right: 80px;
+        font-size: 36px;
+        line-height: 48px;
+
+    }
+    
+    
+    .btn-search {
+        margin-top: 38px;
+        margin-left: 62px;
+    }
+    .card {
+        margin: 11px;
+    }
+    .btn-card {
+        font-size: 19px;
+        padding: 3px 32px;
+    }
+    .input-style {
+
+        width: 97% !important;
+        margin: 2px;
+        margin-bottom: 10px;
+ 
+        font-size: 13px;
+    }
+    .accordion-button {
+        display: block !important;
+        padding: 0px !important;
+        left: 132px;
+        width: 75% !important;
+        position: absolute !important;
+        top: 826px;
+    }
+    .test-card2 {
+        padding: 76px 48px;
+    } 
+    .img-card {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .focus-card {
+       
+        padding: 10px 20px;
+}
+.foot-input {
+    width: 60%;}
+.side-text {
+    padding-left: 5px !important;
+    border-bottom: #7272725c solid 1px;
+    padding: 10px 3px;
+    font-size: 16px;
+    line-height: 27px;
+    color: #0B0B0B;
+}
+.our-services {
+    padding-left: 5px;
+    font-size: 22px;
+    line-height: 28px;
+    padding-top: 36px;
+    padding-bottom: 24px;
+
+}
+.btn-acord {
+    padding: 10px 5px;
+    font-size: 20px;
+    line-height: 32px;}
+
+    .input-text3 {
+        margin-top: 23px;
+    }
+
+        .input-style2 {
+            font-size: 13px;
+            width: 85% !important;
+        }
+}
+
+
+
+
+
+/* -------------------------------------768px-------------------------------------------- */
+
+@media (max-width:786px){
+
+    .search {
+        font-size: 14px;
+        padding-left: 5px;
+        border-radius: 4px;
+        background-color: #8B8B8B;
+        border: none;
+        padding: 2px 3px;
+    }
+    .social-icon {
+        height: 30px;
+        margin-right: 9px;
+    }
+    .foot-text {
+        font-size: 18px;
+    }
+    .p-test {
+        font-size: 17px;
+    }
+    .h2-test {
+        font-size: 34px;
+        line-height: 50px;
+        margin: 0px;
+    }
+
+    .h3-test {
+        font-size: 29px;
+    }
+.focus-card {
+        margin-bottom: 25px;
+    }
+.h3-text {
+    font-size: 20px;
+    line-height: 10px;
+    padding-bottom: 70px;
+    padding-top: 200px;}
+
+
+.main-head {
+    padding-top: 70px;
+    padding-bottom: 35px;
+    font-size: 65px;}
+
+
+    .p-main {
+        padding-bottom: 250px;
+        padding-left: 80px;
+        padding-right: 80px;
+        font-size: 30px;
+        line-height: 47px;
+    }
+    .btn-search {
+        margin-top: 0px;
+        margin-left: 0;
+        margin-bottom: 7px;}
+
+
+        .accordion-button {
+            left: 103px;
+            top: 645px;
+        }
+        .btn-nav {
+            padding: 1px 6px;
+            color: white;
+            font-size: 15px;
+        }
+
+
+}
